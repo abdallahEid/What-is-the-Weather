@@ -12,6 +12,7 @@
 		B2EA050E1F9E92D4004498DF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2EA050C1F9E92D4004498DF /* Main.storyboard */; };
 		B2EA05101F9E92D4004498DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2EA050F1F9E92D4004498DF /* Assets.xcassets */; };
 		B2EA05131F9E92D4004498DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2EA05111F9E92D4004498DF /* LaunchScreen.storyboard */; };
+		B2EA051B1F9E94B5004498DF /* jason-wong-307217.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B2EA051A1F9E94B5004498DF /* jason-wong-307217.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B2EA050F1F9E92D4004498DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B2EA05121F9E92D4004498DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B2EA05141F9E92D4004498DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B2EA051A1F9E94B5004498DF /* jason-wong-307217.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jason-wong-307217.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				B2EA050A1F9E92D4004498DF /* ViewController.swift */,
 				B2EA050C1F9E92D4004498DF /* Main.storyboard */,
 				B2EA050F1F9E92D4004498DF /* Assets.xcassets */,
+				B2EA051A1F9E94B5004498DF /* jason-wong-307217.jpg */,
 				B2EA05111F9E92D4004498DF /* LaunchScreen.storyboard */,
 				B2EA05141F9E92D4004498DF /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2EA051B1F9E94B5004498DF /* jason-wong-307217.jpg in Resources */,
 				B2EA05131F9E92D4004498DF /* LaunchScreen.storyboard in Resources */,
 				B2EA05101F9E92D4004498DF /* Assets.xcassets in Resources */,
 				B2EA050E1F9E92D4004498DF /* Main.storyboard in Resources */,
